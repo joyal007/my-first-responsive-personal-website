@@ -1,0 +1,58 @@
+body{ 
+  background-image: url(""), url("");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+} 
+
+/* Style all font awesome icons */
+.fa {
+    font-size:1rem ;
+    width:3rem ;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+      padding-top:em;
+    background: #3B5998;
+    color: white;
+    height:1em;
+    width:1em;
+   margin-left:2rem
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    padding-top:rem;
+      height:1em;
+    width:1em;
+    background: #55ACEE;
+    color: white;
+    margin-left:2rem
+  }
+  /*Instagram*/
+  .fa-instagram {
+    padding-top:;
+    background: rgb(171 22 46) ;
+    color: white;
+    height:1em;
+    width:1em;
+   margin-left:2rem
+  }
+  /*google-linking*/
+  .fa-google {
+    padding-top:rem;
+    background: #92c5ca;
+    color: white;
+    height:1em;
+    width:1em;
+   margin-left:2rem
+  }  
